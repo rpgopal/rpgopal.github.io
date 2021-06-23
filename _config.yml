@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Pavan Gopal Rayapati Website
+title: Pavan Gopal Rayapati
 
 # Your name to show in the footer
 author: Pavan Gopal Rayapati
@@ -39,29 +39,29 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
+  email: "rpavangopal@gmail.com"
+  facebook: rpgopal97
+  github: rpgopal
+  twitter: rapago2
+#  patreon: DeanAttali
   youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: pavan-gopal-rayapati-824970102
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: rpavangopal
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +919932509474
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  ORCID: 0000-0001-8035-5132
+  google-scholar: VlU4smQAAAAJ
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
