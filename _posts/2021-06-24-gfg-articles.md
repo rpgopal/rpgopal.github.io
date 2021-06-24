@@ -2,7 +2,6 @@
 layout: post
 title: GeekforGeeks Articles
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 comments: true
 ---
 
